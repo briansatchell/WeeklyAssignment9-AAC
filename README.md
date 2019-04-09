@@ -5,3 +5,5 @@ is watching and to pick up on favorite players.
 <p align="center">
   <img src=/WeeklyAssignment9-AAC.jpg title="GameCheer Prototype and Storyboard">
 </p>
+
+![GameCheer](/WeeklyAssignment9-AAC.jpg)
